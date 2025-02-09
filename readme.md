@@ -1,7 +1,7 @@
 The Water Rain Sounds
-RaceRoom Böblingen
+RaceRoom
+Böblingen
 CreeTV
-
 Snuuk
 F1 Hungarian Championship
 XVLNGHOST
@@ -12,7 +12,8 @@ Regular Car Reviews
 Auto Addiction
 UnluckyTurtle14
 Alt Schwift X
-R1B WoTB
+R1B
+WoTB
 Whitelight
 Jay Vibez
 GiantGrantGames
@@ -64,9 +65,9 @@ Alexander Bromley
 HisRoyalFatness
 Body Those Fools
 Karhus
-3G Geek
-Beat Rice
-Sisserou
+3G
+Geek Beat
+Rice Sisserou
 DC
 Phil TheIssuesGuy
 TC Zwag
@@ -81,11 +82,12 @@ Professor Akali
 YourFavoriteSon
 Miraculous Animation Shorts
 F1 REVERSE
-Jocko Podcas
+Jocko Podcast
 My Ambience
 La Garaj Show
 Maanonthemoon
-Ben Cohen - Wing Chun DC
+Ben Cohen - Wing Chun
+DC
 Cameron Das Racing
 AnomalousRicky
 Pink Ward
@@ -129,7 +131,8 @@ The Hardware Unboxed Podcast
 Kurzgesagt – In a Nutshell
 Bogdan Pricope
 BeardMeatsFood
-Merita Toti Banii MTB
+Merita Toti Banii
+MTB
 ONE Championship
 Bio Plus Models
 Noah Caldwell-Gervais
@@ -184,7 +187,8 @@ Rocket Sloth
 loltyler1 VODS
 IMSA Official
 DroneScapes
-Rolling Hearthstone
+Rolling
+Hearthstone
 DavidOZ
 FLAGRANT
 AloisNL
@@ -198,12 +202,11 @@ BlackBeltBarrister
 Business Insider
 Chef James Makinson
 Cleetus McFarland
-Daily Does of Twitch
-Dave's Gara
+Daily Dose of Twitch
+Dave's Garage
 dima_aimbots
 Dr. Paul Oarga
-ESO
-for an amateur u
+ESO for an amateur
 freeCodeCamp.org
 Games Done Quick
 Goliath Games
@@ -245,7 +248,7 @@ Republic of Europe
 Rew
 Rex's Hangar
 RhokuTV
-Skill4ltu Ext`ra
+Skill4ltu Extra
 Skyrionn
 SocialTech Romania
 Spudknocker
@@ -266,5 +269,6 @@ Umsa Murai Pati
 UpFlip
 Vroom Vroom Vlog
 xPetu
-Zarchivo [Opie & Anthony Episodes]
+Zarchivo
+[Opie & Anthony Episodes]
 Zwagmo
